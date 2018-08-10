@@ -67,3 +67,6 @@ Z:\ACCP\DISM\C#\C #\my\form\tic tac toe with draw_2\Tic Tac Toe\Tic Tac Toe\obj\
 \\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\tic tac toe with draw_2\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
 \\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\tic tac toe with draw_2\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
 \\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\tic tac toe with draw_2\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.Cache
+C:\Users\sajida\Desktop\tictac\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\sajida\Desktop\tictac\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\sajida\Desktop\tictac\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
